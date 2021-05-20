@@ -1,0 +1,12 @@
+{
+  "name": "send9999",
+  "version": "1.0.0",
+  "description": "BREAKING: The U.S. Treasury said the Biden administration’s proposal to strengthen tax compliance includes a requirement for transfers of at least $10,000 of cryptocurrency to be reported to the IRS https://trib.al/ffIuhq5",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
